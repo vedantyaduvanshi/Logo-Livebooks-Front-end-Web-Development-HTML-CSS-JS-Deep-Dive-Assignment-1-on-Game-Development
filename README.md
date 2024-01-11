@@ -1,1 +1,3 @@
-# Logo-Livebooks-Front-end-Web-Development-HTML-CSS-JS-Deep-Dive-Assignment-1-on-Game-Development
+# Project Numeron
+
+Project Numeron is a number based game
